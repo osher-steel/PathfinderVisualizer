@@ -7,7 +7,7 @@ To build and run the project
 - Run make to create executable main
 - ./main to run the executable
 
-When the program is running the user can draw walls and change the position of the starting and ending cells. The user must press the return key to start the pathfinding.
+When the program is running the user can draw walls and change the position of the starting(red) and ending(green) cells. The user must press the return key to start the pathfinding.
 
 From top-left to bottom right: A*, BFS, DFS, Dijkstra
 
